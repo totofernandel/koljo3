@@ -3,4 +3,5 @@ import pytest
  #  print("I like to drink coffee in a bourbon glass as if it is black Raussian")
   # assert False
 def test_pass():
+    assert 1 == 1
     assert True
