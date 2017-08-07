@@ -4,4 +4,5 @@ import pytest
   # assert False
 def test_pass():
     assert 1 == 1
+    assert Maybe
     assert True
