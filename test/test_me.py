@@ -5,4 +5,4 @@ import pytest
 def test_pass():
     assert 1 == 1
     assert True
-    assert trmendiouse-anomie
+    assert termoundaus-anomie
